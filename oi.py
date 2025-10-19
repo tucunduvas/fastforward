@@ -13,4 +13,6 @@ subtracao = soma - 1
 multiplicacao = 1*8
 
 print("iniciando o three way merge")
+
 print("copo") #alteracao feita na master
+
